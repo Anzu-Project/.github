@@ -1,7 +1,7 @@
-## Hi there 👋
+# Built By Weebs for Weebs.
 
-# Discord Invite
-<p align="center">
+
+<p align="center"> Discord Invite
     <a href="https://discord.gg/xHMyZHMr7k">
     <img src="https://invidget.switchblade.xyz/xHMyZHMr7k">
     </a>
